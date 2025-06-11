@@ -44,22 +44,3 @@ High Availability: Load balancer distributed across availability zones.
 Cost Optimization: Resource monitoring to avoid over-provisioning.
 
 Outcome: Successfully hosted a secure, scalable web application on Azure, reducing public exposure of backend systems by 90% while ensuring 99.9% uptime.
-
-How to Add to Your Resume:
-Experience Section:
-Cloud Engineer | Azure Web Deployment Project | [Your University/Organization] | [Dates]
-
-Deployed a fault-tolerant web app on Azure using VMs, VNets, Load Balancer, and VPN Gateway, reducing backend exposure by 90%.
-
-Automated scalability via Azure Autoscaling and ensured zero-downtime deployments.
-
-Secured infrastructure with SSL/TLS, VPN certificates, and Azure DNS for custom domain routing.
-
-Skills Section:
-Cloud & DevOps: Microsoft Azure (VNets, VMs, Load Balancer, VPN Gateway, DNS), Autoscaling, SSL/TLS
-Security: VPN Configuration, Certificate Authority (CA), Jump Server Setup
-
-Projects Section (if applicable):
-Azure Cloud Deployment | [GitHub/Portfolio Link]
-
-Built a secure, scalable web app hosted on Azure with segregated frontend/backend networks, load balancing, and automated scaling.
